@@ -1,0 +1,705 @@
+2015-02-05 15:12:14  :  pushNotifyDiscussionMessage2-> get user id1026,828
+2015-02-05 15:12:14  :  pushNotifyDiscussionMessage2->828,
+2015-02-05 15:13:45  :  pushNotifyDiscussionMessage2-> get user id1029,828
+2015-02-05 15:13:45  :  pushNotifyDiscussionMessage2->
+2015-02-05 15:14:34  :  pushNotifyDiscussionMessage2-> get user id1029,828
+2015-02-05 15:14:34  :  pushNotifyDiscussionMessage2->1026,
+2015-02-05 15:14:47  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-05 15:14:47  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-05 15:14:47  :  pushNotifyDiscussionMessage2->828,
+2015-02-05 15:16:55  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-05 15:16:55  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-05 15:16:55  :  pushNotifyDiscussionMessage2->
+2015-02-05 15:18:56  :  pushNotifyDiscussionMessage2-> discussion_id:626
+2015-02-05 15:18:56  :  pushNotifyDiscussionMessage2-> get user id:1029,1033
+2015-02-05 15:18:56  :  pushNotifyDiscussionMessage2->
+2015-02-05 15:19:28  :  pushNotifyDiscussionMessage2-> discussion_id:625
+2015-02-05 15:19:28  :  pushNotifyDiscussionMessage2-> get user id:1029,1033
+2015-02-05 15:19:28  :  pushNotifyDiscussionMessage2->
+2015-02-05 15:23:06  :  pushNotifyDiscussionMessage2-> discussion_id:627
+2015-02-05 15:23:06  :  pushNotifyDiscussionMessage2-> get user id:1029,1033
+2015-02-05 15:23:06  :  pushNotifyDiscussionMessage2->
+2015-02-05 15:28:09  :  pushNotifyDiscussionMessage2-> discussion_id:627
+2015-02-05 15:28:09  :  pushNotifyDiscussionMessage2-> get user id:1026,1033
+2015-02-05 15:28:09  :  pushNotifyDiscussionMessage2->1029,
+2015-02-05 15:35:28  :  pushNotifyDiscussionMessage2-> discussion_id:627
+2015-02-05 15:35:28  :  pushNotifyDiscussionMessage2-> get user id:1029,1033
+2015-02-05 15:35:28  :  pushNotifyDiscussionMessage2->1026,
+2015-02-05 15:39:26  :  pushNotifyDiscussionMessage2-> discussion_id:627
+2015-02-05 15:39:26  :  pushNotifyDiscussionMessage2-> get user id:1029,1033
+2015-02-05 15:39:26  :  pushNotifyDiscussionMessage2->1026,
+2015-02-05 15:45:50  :  pushNotifyDiscussionMessage2-> discussion_id:627
+2015-02-05 15:45:50  :  pushNotifyDiscussionMessage2-> get user id:1029,1033
+2015-02-05 15:45:50  :  pushNotifyDiscussionMessage2->1026,
+2015-02-05 15:49:14  :  pushNotifyDiscussionMessage2-> discussion_id:627
+2015-02-05 15:49:14  :  pushNotifyDiscussionMessage2-> get user id:1029,1033
+2015-02-05 15:49:14  :  pushNotifyDiscussionMessage2->1026,
+2015-02-05 15:57:13  :  pushNotifyDiscussionMessage2-> discussion_id:627
+2015-02-05 15:57:13  :  pushNotifyDiscussionMessage2-> get user id:1029,1033
+2015-02-05 15:57:13  :  pushNotifyDiscussionMessage2->1026,
+2015-02-05 16:02:49  :  pushNotifyDiscussionMessage2-> discussion_id:627
+2015-02-05 16:02:49  :  pushNotifyDiscussionMessage2-> get user id:1029,1033
+2015-02-05 16:02:49  :  pushNotifyDiscussionMessage2->1026,
+2015-02-05 16:04:49  :  pushNotifyDiscussionMessage2-> discussion_id:627
+2015-02-05 16:04:49  :  pushNotifyDiscussionMessage2-> get user id:1029,1033
+2015-02-05 16:04:49  :  pushNotifyDiscussionMessage2->1026,
+2015-02-05 16:08:06  :  pushNotifyDiscussionMessage2-> discussion_id:627
+2015-02-05 16:08:06  :  pushNotifyDiscussionMessage2-> get user id:1029,1033
+2015-02-05 16:08:06  :  pushNotifyDiscussionMessage2->1026,
+2015-02-05 16:08:48  :  pushNotifyDiscussionMessage2-> discussion_id:627
+2015-02-05 16:08:48  :  pushNotifyDiscussionMessage2-> get user id:1029,1033
+2015-02-05 16:08:48  :  pushNotifyDiscussionMessage2->1026,
+2015-02-05 16:10:05  :  pushNotifyDiscussionMessage2-> discussion_id:625
+2015-02-05 16:10:05  :  pushNotifyDiscussionMessage2-> get user id:1029,1033
+2015-02-05 16:10:05  :  pushNotifyDiscussionMessage2->
+2015-02-05 16:11:12  :  pushNotifyDiscussionMessage2-> discussion_id:625
+2015-02-05 16:11:12  :  pushNotifyDiscussionMessage2-> get user id:1029,1033
+2015-02-05 16:11:12  :  pushNotifyDiscussionMessage2->
+2015-02-05 16:12:15  :  pushNotifyDiscussionMessage2-> discussion_id:625
+2015-02-05 16:12:15  :  pushNotifyDiscussionMessage2-> get user id:1029,1033
+2015-02-05 16:12:15  :  pushNotifyDiscussionMessage2->
+2015-02-05 16:14:17  :  pushNotifyDiscussionMessage2-> discussion_id:625
+2015-02-05 16:14:17  :  pushNotifyDiscussionMessage2-> get user id:1029,1033
+2015-02-05 16:14:17  :  pushNotifyDiscussionMessage2->
+2015-02-05 16:17:18  :  pushNotifyDiscussionMessage2-> discussion_id:625
+2015-02-05 16:17:18  :  pushNotifyDiscussionMessage2-> get user id:1029,1033
+2015-02-05 16:17:18  :  pushNotifyDiscussionMessage2->
+2015-02-05 16:17:56  :  pushNotifyDiscussionMessage2-> discussion_id:627
+2015-02-05 16:17:56  :  pushNotifyDiscussionMessage2-> get user id:1029,1033
+2015-02-05 16:17:56  :  pushNotifyDiscussionMessage2->1026,
+2015-02-05 16:36:31  :  pushNotifyDiscussionMessage2-> discussion_id:627
+2015-02-05 16:36:31  :  pushNotifyDiscussionMessage2-> get user id:1026,1033
+2015-02-05 16:36:31  :  pushNotifyDiscussionMessage2->1029,
+2015-02-05 16:39:09  :  pushNotifyDiscussionMessage2-> discussion_id:627
+2015-02-05 16:39:09  :  pushNotifyDiscussionMessage2-> get user id:1026,1033
+2015-02-05 16:39:09  :  pushNotifyDiscussionMessage2->1029,
+2015-02-05 16:39:46  :  pushNotifyDiscussionMessage2-> discussion_id:627
+2015-02-05 16:39:46  :  pushNotifyDiscussionMessage2-> get user id:1026,1033
+2015-02-05 16:39:46  :  pushNotifyDiscussionMessage2->1029,
+2015-02-05 16:40:13  :  pushNotifyDiscussionMessage2-> discussion_id:627
+2015-02-05 16:40:13  :  pushNotifyDiscussionMessage2-> get user id:1026,1033
+2015-02-05 16:40:13  :  pushNotifyDiscussionMessage2->1029,
+2015-02-05 16:46:34  :  pushNotifyDiscussionMessage2-> discussion_id:627
+2015-02-05 16:46:34  :  pushNotifyDiscussionMessage2-> get user id:1026,1033
+2015-02-05 16:46:34  :  pushNotifyDiscussionMessage2->1029,
+2015-02-05 16:48:06  :  pushNotifyDiscussionMessage2-> discussion_id:625
+2015-02-05 16:48:06  :  pushNotifyDiscussionMessage2-> get user id:1026,1033
+2015-02-05 16:48:06  :  pushNotifyDiscussionMessage2->1029,
+2015-02-05 16:49:09  :  pushNotifyDiscussionMessage2-> discussion_id:501
+2015-02-05 16:49:09  :  pushNotifyDiscussionMessage2-> get user id:1026,1033
+2015-02-05 16:49:09  :  pushNotifyDiscussionMessage2->828,
+2015-02-05 17:15:24  :  pushNotifyDiscussionMessage2-> discussion_id:625
+2015-02-05 17:15:24  :  pushNotifyDiscussionMessage2-> get user id:1026,1033
+2015-02-05 17:15:24  :  pushNotifyDiscussionMessage2->1029,
+2015-02-05 17:35:55  :  pushNotifyDiscussionMessage2-> discussion_id:627
+2015-02-05 17:35:55  :  pushNotifyDiscussionMessage2-> get user id:1026,1033
+2015-02-05 17:35:55  :  pushNotifyDiscussionMessage2->1029,
+2015-02-05 17:39:37  :  pushNotifyDiscussionMessage2-> discussion_id:627
+2015-02-05 17:39:37  :  pushNotifyDiscussionMessage2-> get user id:1026,1033
+2015-02-05 17:39:37  :  pushNotifyDiscussionMessage2->1029,
+2015-02-05 17:43:47  :  pushNotifyDiscussionMessage2-> discussion_id:500
+2015-02-05 17:43:47  :  pushNotifyDiscussionMessage2-> get user id:1026,1033
+2015-02-05 17:43:47  :  pushNotifyDiscussionMessage2->828,
+2015-02-05 17:45:28  :  pushNotifyDiscussionMessage2-> discussion_id:500
+2015-02-05 17:45:28  :  pushNotifyDiscussionMessage2-> get user id:1026,1033
+2015-02-05 17:45:28  :  pushNotifyDiscussionMessage2->828,
+2015-02-05 17:46:58  :  pushNotifyDiscussionMessage2-> discussion_id:500
+2015-02-05 17:46:58  :  pushNotifyDiscussionMessage2-> get user id:1026,1033
+2015-02-05 17:46:58  :  pushNotifyDiscussionMessage2->828,
+2015-02-05 17:49:59  :  pushNotifyDiscussionMessage2-> discussion_id:500
+2015-02-05 17:49:59  :  pushNotifyDiscussionMessage2-> get user id:1026,1033
+2015-02-05 17:49:59  :  pushNotifyDiscussionMessage2->828,
+2015-02-05 17:52:04  :  pushNotifyDiscussionMessage2-> discussion_id:501
+2015-02-05 17:52:04  :  pushNotifyDiscussionMessage2-> get user id:1026,1033
+2015-02-05 17:52:04  :  pushNotifyDiscussionMessage2->828,
+2015-02-05 17:53:29  :  pushNotifyDiscussionMessage2-> discussion_id:499
+2015-02-05 17:53:29  :  pushNotifyDiscussionMessage2-> get user id:1026,1033
+2015-02-05 17:53:29  :  pushNotifyDiscussionMessage2->
+2015-02-05 17:54:35  :  pushNotifyDiscussionMessage2-> discussion_id:486
+2015-02-05 17:54:35  :  pushNotifyDiscussionMessage2-> get user id:1026,1033
+2015-02-05 17:54:35  :  pushNotifyDiscussionMessage2->1021,
+2015-02-05 17:56:36  :  pushNotifyDiscussionMessage2-> discussion_id:486
+2015-02-05 17:56:36  :  pushNotifyDiscussionMessage2-> get user id:1026,1033
+2015-02-05 17:56:36  :  pushNotifyDiscussionMessage2->1021,
+2015-02-05 17:57:06  :  pushNotifyDiscussionMessage2-> discussion_id:499
+2015-02-05 17:57:06  :  pushNotifyDiscussionMessage2-> get user id:1026,1033
+2015-02-05 17:57:06  :  pushNotifyDiscussionMessage2->
+2015-02-05 17:59:00  :  pushNotifyDiscussionMessage2-> discussion_id:499
+2015-02-05 17:59:00  :  pushNotifyDiscussionMessage2-> get user id:1026,1033
+2015-02-05 17:59:00  :  pushNotifyDiscussionMessage2->
+2015-02-05 17:59:59  :  pushNotifyDiscussionMessage2-> discussion_id:484
+2015-02-05 17:59:59  :  pushNotifyDiscussionMessage2-> get user id:1026,1033
+2015-02-05 17:59:59  :  pushNotifyDiscussionMessage2->
+2015-02-05 18:02:45  :  pushNotifyDiscussionMessage2-> discussion_id:484
+2015-02-05 18:02:45  :  pushNotifyDiscussionMessage2-> get user id:1026,1033
+2015-02-05 18:02:45  :  pushNotifyDiscussionMessage2->
+2015-02-05 18:03:49  :  pushNotifyDiscussionMessage2-> discussion_id:486
+2015-02-05 18:03:49  :  pushNotifyDiscussionMessage2-> get user id:1026,1033
+2015-02-05 18:03:49  :  pushNotifyDiscussionMessage2->1021,
+2015-02-05 18:06:27  :  pushNotifyDiscussionMessage2-> discussion_id:499
+2015-02-05 18:06:27  :  pushNotifyDiscussionMessage2-> get user id:1026,1033
+2015-02-05 18:06:27  :  pushNotifyDiscussionMessage2->
+2015-02-06 10:14:03  :  pushNotifyDiscussionMessage2-> discussion_id:500
+2015-02-06 10:14:03  :  pushNotifyDiscussionMessage2-> get user id:1026,1033
+2015-02-06 10:14:03  :  pushNotifyDiscussionMessage2->828,
+2015-02-06 10:17:02  :  pushNotifyDiscussionMessage2-> discussion_id:481
+2015-02-06 10:17:02  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 10:17:02  :  pushNotifyDiscussionMessage2->1033,
+2015-02-06 10:22:04  :  pushNotifyDiscussionMessage2-> discussion_id:481
+2015-02-06 10:22:04  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 10:22:04  :  pushNotifyDiscussionMessage2->1033,
+2015-02-06 10:23:31  :  pushNotifyDiscussionMessage2-> discussion_id:481
+2015-02-06 10:23:31  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 10:23:31  :  pushNotifyDiscussionMessage2->1033,
+2015-02-06 10:25:08  :  pushNotifyDiscussionMessage2-> discussion_id:481
+2015-02-06 10:25:08  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 10:25:08  :  pushNotifyDiscussionMessage2->1033,
+2015-02-06 10:26:41  :  pushNotifyDiscussionMessage2-> discussion_id:481
+2015-02-06 10:26:41  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 10:26:41  :  pushNotifyDiscussionMessage2->1033,
+2015-02-06 10:29:01  :  pushNotifyDiscussionMessage2-> discussion_id:576
+2015-02-06 10:29:01  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 10:29:01  :  pushNotifyDiscussionMessage2->823,
+2015-02-06 10:30:36  :  pushNotifyDiscussionMessage2-> discussion_id:576
+2015-02-06 10:30:36  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 10:30:36  :  pushNotifyDiscussionMessage2->823,
+2015-02-06 10:33:49  :  pushNotifyDiscussionMessage2-> discussion_id:576
+2015-02-06 10:33:49  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 10:33:49  :  pushNotifyDiscussionMessage2->823,
+2015-02-06 10:34:15  :  pushNotifyDiscussionMessage2-> discussion_id:577
+2015-02-06 10:34:15  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 10:34:15  :  pushNotifyDiscussionMessage2->823,1021,1056,1052,
+2015-02-06 10:35:28  :  pushNotifyDiscussionMessage2-> discussion_id:577
+2015-02-06 10:35:28  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 10:35:28  :  pushNotifyDiscussionMessage2->823,1021,1056,1052,
+2015-02-06 10:38:41  :  pushNotifyDiscussionMessage2-> discussion_id:577
+2015-02-06 10:38:41  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 10:38:41  :  pushNotifyDiscussionMessage2->823,1021,1056,1052,
+2015-02-06 10:41:26  :  pushNotifyDiscussionMessage2-> discussion_id:481
+2015-02-06 10:41:26  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 10:41:26  :  pushNotifyDiscussionMessage2->1033,
+2015-02-06 10:42:04  :  pushNotifyDiscussionMessage2-> discussion_id:559
+2015-02-06 10:42:04  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 10:42:04  :  pushNotifyDiscussionMessage2->
+2015-02-06 10:43:08  :  pushNotifyDiscussionMessage2-> discussion_id:559
+2015-02-06 10:43:08  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 10:43:08  :  pushNotifyDiscussionMessage2->
+2015-02-06 10:43:57  :  pushNotifyDiscussionMessage2-> discussion_id:629
+2015-02-06 10:43:57  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 10:43:57  :  pushNotifyDiscussionMessage2->
+2015-02-06 11:02:39  :  pushNotifyDiscussionMessage2-> discussion_id:629
+2015-02-06 11:02:39  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 11:02:39  :  pushNotifyDiscussionMessage2->
+2015-02-06 11:03:03  :  pushNotifyDiscussionMessage2-> discussion_id:577
+2015-02-06 11:03:03  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 11:03:03  :  pushNotifyDiscussionMessage2->823,1021,1056,1052,
+2015-02-06 11:30:40  :  pushNotifyDiscussionMessage2-> discussion_id:629
+2015-02-06 11:30:40  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 11:30:40  :  pushNotifyDiscussionMessage2->
+2015-02-06 11:30:47  :  pushNotifyDiscussionMessage2-> discussion_id:577
+2015-02-06 11:30:47  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 11:30:47  :  pushNotifyDiscussionMessage2->823,1021,1056,1052,
+2015-02-06 12:05:40  :  pushNotifyDiscussionMessage2-> discussion_id:629
+2015-02-06 12:05:40  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 12:05:40  :  pushNotifyDiscussionMessage2->
+2015-02-06 12:08:52  :  pushNotifyDiscussionMessage2-> discussion_id:576
+2015-02-06 12:08:52  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 12:08:52  :  pushNotifyDiscussionMessage2->823,
+2015-02-06 12:12:32  :  pushNotifyDiscussionMessage2-> discussion_id:576
+2015-02-06 12:12:32  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 12:12:32  :  pushNotifyDiscussionMessage2->823,
+2015-02-06 12:14:40  :  pushNotifyDiscussionMessage2-> discussion_id:629
+2015-02-06 12:14:40  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 12:14:40  :  pushNotifyDiscussionMessage2->
+2015-02-06 13:39:49  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-06 13:39:49  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 13:39:49  :  pushNotifyDiscussionMessage2->
+2015-02-06 13:40:09  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-06 13:40:09  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 13:40:09  :  pushNotifyDiscussionMessage2->
+2015-02-06 13:41:17  :  pushNotifyDiscussionMessage2-> discussion_id:623
+2015-02-06 13:41:17  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 13:41:17  :  pushNotifyDiscussionMessage2->1029,
+2015-02-06 13:41:37  :  pushNotifyDiscussionMessage2-> discussion_id:623
+2015-02-06 13:41:37  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 13:41:37  :  pushNotifyDiscussionMessage2->1029,
+2015-02-06 13:43:41  :  pushNotifyDiscussionMessage2-> discussion_id:623
+2015-02-06 13:43:41  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 13:43:41  :  pushNotifyDiscussionMessage2->1029,
+2015-02-06 13:45:57  :  pushNotifyDiscussionMessage2-> discussion_id:623
+2015-02-06 13:45:57  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 13:45:57  :  pushNotifyDiscussionMessage2->1029,
+2015-02-06 13:50:06  :  pushNotifyDiscussionMessage2-> discussion_id:623
+2015-02-06 13:50:06  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 13:50:06  :  pushNotifyDiscussionMessage2->1029,
+2015-02-06 13:57:03  :  pushNotifyDiscussionMessage2-> discussion_id:623
+2015-02-06 13:57:03  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 13:57:03  :  pushNotifyDiscussionMessage2->1029,
+2015-02-06 13:57:34  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-06 13:57:34  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 13:57:34  :  pushNotifyDiscussionMessage2->
+2015-02-06 13:57:57  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-06 13:57:57  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 13:57:57  :  pushNotifyDiscussionMessage2->
+2015-02-06 14:05:34  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-06 14:05:34  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 14:05:34  :  pushNotifyDiscussionMessage2->
+2015-02-06 14:47:07  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-06 14:47:07  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 14:47:07  :  pushNotifyDiscussionMessage2->
+2015-02-06 14:48:17  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-06 14:48:17  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 14:48:17  :  pushNotifyDiscussionMessage2->
+2015-02-06 14:48:48  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-06 14:48:48  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 14:48:48  :  pushNotifyDiscussionMessage2->
+2015-02-06 14:56:56  :  pushNotifyDiscussionMessage2-> discussion_id:623
+2015-02-06 14:56:56  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 14:56:56  :  pushNotifyDiscussionMessage2->1029,
+2015-02-06 14:58:45  :  pushNotifyDiscussionMessage2-> discussion_id:623
+2015-02-06 14:58:45  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 14:58:45  :  pushNotifyDiscussionMessage2->1029,
+2015-02-06 15:01:21  :  pushNotifyDiscussionMessage2-> discussion_id:623
+2015-02-06 15:01:21  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 15:01:21  :  pushNotifyDiscussionMessage2->1029,
+2015-02-06 15:05:04  :  pushNotifyDiscussionMessage2-> discussion_id:623
+2015-02-06 15:05:04  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 15:05:04  :  pushNotifyDiscussionMessage2->1029,
+2015-02-06 15:08:31  :  pushNotifyDiscussionMessage2-> discussion_id:623
+2015-02-06 15:08:31  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 15:08:31  :  pushNotifyDiscussionMessage2->1029,
+2015-02-06 15:11:14  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-06 15:11:14  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 15:11:14  :  pushNotifyDiscussionMessage2->
+2015-02-06 15:14:46  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-06 15:14:46  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 15:14:46  :  pushNotifyDiscussionMessage2->
+2015-02-06 15:21:06  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-06 15:21:06  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 15:21:06  :  pushNotifyDiscussionMessage2->
+2015-02-06 15:24:48  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-06 15:24:48  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 15:24:48  :  pushNotifyDiscussionMessage2->
+2015-02-06 15:25:52  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-06 15:25:52  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 15:25:52  :  pushNotifyDiscussionMessage2->
+2015-02-06 15:31:57  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-06 15:31:57  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 15:31:57  :  pushNotifyDiscussionMessage2->
+2015-02-06 15:32:24  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-06 15:32:24  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 15:32:24  :  pushNotifyDiscussionMessage2->
+2015-02-06 15:33:06  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-06 15:33:06  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 15:33:06  :  pushNotifyDiscussionMessage2->
+2015-02-06 15:34:33  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-06 15:34:33  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 15:34:33  :  pushNotifyDiscussionMessage2->
+2015-02-06 15:36:53  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-06 15:36:53  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 15:36:53  :  pushNotifyDiscussionMessage2->
+2015-02-06 15:41:22  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-06 15:41:22  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 15:41:22  :  pushNotifyDiscussionMessage2->
+2015-02-06 15:42:52  :  pushNotifyDiscussionMessage2-> discussion_id:623
+2015-02-06 15:42:52  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 15:42:52  :  pushNotifyDiscussionMessage2->1029,
+2015-02-06 15:43:14  :  pushNotifyDiscussionMessage2-> discussion_id:623
+2015-02-06 15:43:14  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 15:43:14  :  pushNotifyDiscussionMessage2->1029,
+2015-02-06 15:47:03  :  pushNotifyDiscussionMessage2-> discussion_id:623
+2015-02-06 15:47:03  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 15:47:03  :  pushNotifyDiscussionMessage2->1029,
+2015-02-06 15:47:51  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-06 15:47:51  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 15:47:51  :  pushNotifyDiscussionMessage2->
+2015-02-06 15:49:28  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-06 15:49:28  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 15:49:28  :  pushNotifyDiscussionMessage2->
+2015-02-06 16:16:33  :  pushNotifyDiscussionMessage2-> discussion_id:623
+2015-02-06 16:16:33  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 16:16:33  :  pushNotifyDiscussionMessage2->1029,
+2015-02-06 16:17:57  :  pushNotifyDiscussionMessage2-> discussion_id:623
+2015-02-06 16:17:57  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 16:17:57  :  pushNotifyDiscussionMessage2->1029,
+2015-02-06 16:18:28  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-06 16:18:28  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 16:18:28  :  pushNotifyDiscussionMessage2->
+2015-02-06 16:38:10  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-06 16:38:10  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 16:38:10  :  pushNotifyDiscussionMessage2->
+2015-02-06 16:38:39  :  pushNotifyDiscussionMessage2-> discussion_id:611
+2015-02-06 16:38:39  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 16:38:39  :  pushNotifyDiscussionMessage2->1029,
+2015-02-06 16:39:19  :  pushNotifyDiscussionMessage2-> discussion_id:629
+2015-02-06 16:39:19  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 16:39:19  :  pushNotifyDiscussionMessage2->
+2015-02-06 16:39:34  :  pushNotifyDiscussionMessage2-> discussion_id:577
+2015-02-06 16:39:34  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 16:39:34  :  pushNotifyDiscussionMessage2->823,1021,1056,1052,
+2015-02-06 16:41:26  :  pushNotifyDiscussionMessage2-> discussion_id:577
+2015-02-06 16:41:26  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 16:41:26  :  pushNotifyDiscussionMessage2->823,1021,1056,1052,
+2015-02-06 16:43:17  :  pushNotifyDiscussionMessage2-> discussion_id:629
+2015-02-06 16:43:17  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-06 16:43:17  :  pushNotifyDiscussionMessage2->
+2015-02-06 17:55:45  :  pushNotifyDiscussionMessage2-> discussion_id:630
+2015-02-06 17:55:45  :  pushNotifyDiscussionMessage2-> get user id:1026,823
+2015-02-06 17:55:45  :  pushNotifyDiscussionMessage2->
+2015-02-06 17:55:47  :  pushNotifyDiscussionMessage2-> discussion_id:630
+2015-02-06 17:55:47  :  pushNotifyDiscussionMessage2-> get user id:1026,823
+2015-02-06 17:55:47  :  pushNotifyDiscussionMessage2->
+2015-02-06 17:56:15  :  pushNotifyDiscussionMessage2-> discussion_id:630
+2015-02-06 17:56:15  :  pushNotifyDiscussionMessage2-> get user id:1026,823
+2015-02-06 17:56:15  :  pushNotifyDiscussionMessage2->
+2015-02-06 17:56:16  :  pushNotifyDiscussionMessage2-> discussion_id:630
+2015-02-06 17:56:16  :  pushNotifyDiscussionMessage2-> get user id:1026,823
+2015-02-06 17:56:16  :  pushNotifyDiscussionMessage2->
+2015-02-06 17:56:25  :  pushNotifyDiscussionMessage2-> discussion_id:630
+2015-02-06 17:56:25  :  pushNotifyDiscussionMessage2-> get user id:1026,823
+2015-02-06 17:56:25  :  pushNotifyDiscussionMessage2->
+2015-02-06 17:56:27  :  pushNotifyDiscussionMessage2-> discussion_id:630
+2015-02-06 17:56:27  :  pushNotifyDiscussionMessage2-> get user id:1026,823
+2015-02-06 17:56:27  :  pushNotifyDiscussionMessage2->
+2015-02-06 17:56:39  :  pushNotifyDiscussionMessage2-> discussion_id:630
+2015-02-06 17:56:39  :  pushNotifyDiscussionMessage2-> get user id:1026,823
+2015-02-06 17:56:39  :  pushNotifyDiscussionMessage2->
+2015-02-06 17:57:02  :  pushNotifyDiscussionMessage2-> discussion_id:630
+2015-02-06 17:57:02  :  pushNotifyDiscussionMessage2-> get user id:1026,823
+2015-02-06 17:57:02  :  pushNotifyDiscussionMessage2->
+2015-02-06 17:57:04  :  pushNotifyDiscussionMessage2-> discussion_id:630
+2015-02-06 17:57:04  :  pushNotifyDiscussionMessage2-> get user id:1026,823
+2015-02-06 17:57:04  :  pushNotifyDiscussionMessage2->
+2015-02-06 17:57:25  :  pushNotifyDiscussionMessage2-> discussion_id:630
+2015-02-06 17:57:25  :  pushNotifyDiscussionMessage2-> get user id:1026,823
+2015-02-06 17:57:25  :  pushNotifyDiscussionMessage2->
+2015-02-06 17:57:26  :  pushNotifyDiscussionMessage2-> discussion_id:630
+2015-02-06 17:57:26  :  pushNotifyDiscussionMessage2-> get user id:1026,823
+2015-02-06 17:57:26  :  pushNotifyDiscussionMessage2->
+2015-02-07 08:07:16  :  pushNotifyDiscussionMessage2-> discussion_id:627
+2015-02-07 08:07:16  :  pushNotifyDiscussionMessage2-> get user id:828,1033
+2015-02-07 08:07:16  :  pushNotifyDiscussionMessage2->1029,1026,
+2015-02-07 11:38:39  :  pushNotifyDiscussionMessage2-> discussion_id:631
+2015-02-07 11:38:39  :  pushNotifyDiscussionMessage2-> get user id:823,1029
+2015-02-07 11:38:39  :  pushNotifyDiscussionMessage2->
+2015-02-07 11:42:29  :  pushNotifyDiscussionMessage2-> discussion_id:631
+2015-02-07 11:42:29  :  pushNotifyDiscussionMessage2-> get user id:823,1029
+2015-02-07 11:42:29  :  pushNotifyDiscussionMessage2->
+2015-02-07 11:44:26  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-07 11:44:26  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-07 11:44:26  :  pushNotifyDiscussionMessage2->
+2015-02-07 11:44:28  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-07 11:44:28  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-07 11:44:28  :  pushNotifyDiscussionMessage2->
+2015-02-07 11:44:50  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-07 11:44:50  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-07 11:44:50  :  pushNotifyDiscussionMessage2->
+2015-02-07 11:45:05  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-07 11:45:05  :  pushNotifyDiscussionMessage2-> get user id:823,828
+2015-02-07 11:45:05  :  pushNotifyDiscussionMessage2->1026,
+2015-02-07 11:45:08  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-07 11:45:08  :  pushNotifyDiscussionMessage2-> get user id:823,828
+2015-02-07 11:45:08  :  pushNotifyDiscussionMessage2->1026,
+2015-02-07 11:49:27  :  pushNotifyDiscussionMessage2-> discussion_id:627
+2015-02-07 11:49:27  :  pushNotifyDiscussionMessage2-> get user id:1052,1033
+2015-02-07 11:49:27  :  pushNotifyDiscussionMessage2->1029,1026,828,
+2015-02-07 11:49:29  :  pushNotifyDiscussionMessage2-> discussion_id:627
+2015-02-07 11:49:29  :  pushNotifyDiscussionMessage2-> get user id:1052,1033
+2015-02-07 11:49:29  :  pushNotifyDiscussionMessage2->1029,1026,828,
+2015-02-07 11:50:05  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-07 11:50:05  :  pushNotifyDiscussionMessage2-> get user id:1052,828
+2015-02-07 11:50:05  :  pushNotifyDiscussionMessage2->1026,823,
+2015-02-07 11:50:07  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-07 11:50:07  :  pushNotifyDiscussionMessage2-> get user id:1052,828
+2015-02-07 11:50:07  :  pushNotifyDiscussionMessage2->1026,823,
+2015-02-07 11:50:09  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-07 11:50:09  :  pushNotifyDiscussionMessage2-> get user id:1052,828
+2015-02-07 11:50:09  :  pushNotifyDiscussionMessage2->1026,823,
+2015-02-07 11:50:26  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-07 11:50:26  :  pushNotifyDiscussionMessage2-> get user id:1052,828
+2015-02-07 11:50:26  :  pushNotifyDiscussionMessage2->1026,823,
+2015-02-07 11:50:28  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-07 11:50:28  :  pushNotifyDiscussionMessage2-> get user id:1052,828
+2015-02-07 11:50:28  :  pushNotifyDiscussionMessage2->1026,823,
+2015-02-07 11:51:05  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-07 11:51:05  :  pushNotifyDiscussionMessage2-> get user id:1052,828
+2015-02-07 11:51:05  :  pushNotifyDiscussionMessage2->1026,823,
+2015-02-07 11:51:06  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-07 11:51:06  :  pushNotifyDiscussionMessage2-> get user id:1052,828
+2015-02-07 11:51:06  :  pushNotifyDiscussionMessage2->1026,823,
+2015-02-07 11:51:07  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-07 11:51:07  :  pushNotifyDiscussionMessage2-> get user id:1052,828
+2015-02-07 11:51:07  :  pushNotifyDiscussionMessage2->1026,823,
+2015-02-07 11:51:41  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-07 11:51:41  :  pushNotifyDiscussionMessage2-> get user id:1052,828
+2015-02-07 11:51:41  :  pushNotifyDiscussionMessage2->1026,823,
+2015-02-07 11:51:50  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-07 11:51:50  :  pushNotifyDiscussionMessage2-> get user id:1052,828
+2015-02-07 11:51:50  :  pushNotifyDiscussionMessage2->1026,823,
+2015-02-07 11:51:52  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-07 11:51:52  :  pushNotifyDiscussionMessage2-> get user id:1052,828
+2015-02-07 11:51:52  :  pushNotifyDiscussionMessage2->1026,823,
+2015-02-07 11:53:42  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-07 11:53:42  :  pushNotifyDiscussionMessage2-> get user id:1052,828
+2015-02-07 11:53:42  :  pushNotifyDiscussionMessage2->1026,823,
+2015-02-07 11:53:43  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-07 11:53:43  :  pushNotifyDiscussionMessage2-> get user id:1052,828
+2015-02-07 11:53:43  :  pushNotifyDiscussionMessage2->1026,823,
+2015-02-07 11:54:55  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-07 11:54:55  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-07 11:54:55  :  pushNotifyDiscussionMessage2->823,1052,
+2015-02-07 11:54:58  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-07 11:54:58  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-07 11:54:58  :  pushNotifyDiscussionMessage2->823,1052,
+2015-02-07 12:03:34  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-07 12:03:34  :  pushNotifyDiscussionMessage2-> get user id:823,828
+2015-02-07 12:03:34  :  pushNotifyDiscussionMessage2->1026,1052,
+2015-02-07 12:03:37  :  pushNotifyDiscussionMessage2-> discussion_id:624
+2015-02-07 12:03:37  :  pushNotifyDiscussionMessage2-> get user id:823,828
+2015-02-07 12:03:37  :  pushNotifyDiscussionMessage2->1026,1052,
+2015-02-07 12:04:51  :  pushNotifyDiscussionMessage2-> discussion_id:633
+2015-02-07 12:04:51  :  pushNotifyDiscussionMessage2-> get user id:823,828
+2015-02-07 12:04:51  :  pushNotifyDiscussionMessage2->
+2015-02-07 12:04:54  :  pushNotifyDiscussionMessage2-> discussion_id:633
+2015-02-07 12:04:54  :  pushNotifyDiscussionMessage2-> get user id:823,828
+2015-02-07 12:04:54  :  pushNotifyDiscussionMessage2->
+2015-02-07 12:05:25  :  pushNotifyDiscussionMessage2-> discussion_id:633
+2015-02-07 12:05:25  :  pushNotifyDiscussionMessage2-> get user id:823,828
+2015-02-07 12:05:25  :  pushNotifyDiscussionMessage2->
+2015-02-07 12:05:28  :  pushNotifyDiscussionMessage2-> discussion_id:633
+2015-02-07 12:05:28  :  pushNotifyDiscussionMessage2-> get user id:823,828
+2015-02-07 12:05:28  :  pushNotifyDiscussionMessage2->
+2015-02-07 12:06:11  :  pushNotifyDiscussionMessage2-> discussion_id:633
+2015-02-07 12:06:11  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-07 12:06:11  :  pushNotifyDiscussionMessage2->823,
+2015-02-07 12:06:14  :  pushNotifyDiscussionMessage2-> discussion_id:633
+2015-02-07 12:06:14  :  pushNotifyDiscussionMessage2-> get user id:1026,828
+2015-02-07 12:06:14  :  pushNotifyDiscussionMessage2->823,
+2015-02-07 12:12:01  :  pushNotifyDiscussionMessage2-> discussion_id:630
+2015-02-07 12:12:01  :  pushNotifyDiscussionMessage2-> get user id:1054,823
+2015-02-07 12:12:01  :  pushNotifyDiscussionMessage2->1026,
+2015-02-07 12:30:56  :  pushNotifyDiscussionMessage2-> discussion_id:630
+2015-02-07 12:30:56  :  pushNotifyDiscussionMessage2-> get user id:1054,823
+2015-02-07 12:30:56  :  pushNotifyDiscussionMessage2->1026,
+2015-02-07 12:30:58  :  pushNotifyDiscussionMessage2-> discussion_id:630
+2015-02-07 12:30:58  :  pushNotifyDiscussionMessage2-> get user id:1054,823
+2015-02-07 12:30:58  :  pushNotifyDiscussionMessage2->1026,
+2015-02-07 12:36:50  :  pushNotifyDiscussionMessage2-> discussion_id:629
+2015-02-07 12:36:50  :  pushNotifyDiscussionMessage2-> get user id:1029,828
+2015-02-07 12:36:50  :  pushNotifyDiscussionMessage2->1026,
+2015-02-07 12:41:00  :  pushNotifyDiscussionMessage2-> discussion_id:634
+2015-02-07 12:41:00  :  pushNotifyDiscussionMessage2-> get user id:1029,823
+2015-02-07 12:41:00  :  pushNotifyDiscussionMessage2->
+2015-02-07 13:22:37  :  pushNotifyDiscussionMessage2-> discussion_id:634
+2015-02-07 13:22:37  :  pushNotifyDiscussionMessage2-> get user id:1029,823
+2015-02-07 13:22:37  :  pushNotifyDiscussionMessage2->
+2015-02-07 13:23:27  :  pushNotifyDiscussionMessage2-> discussion_id:634
+2015-02-07 13:23:27  :  pushNotifyDiscussionMessage2-> get user id:1029,823
+2015-02-07 13:23:27  :  pushNotifyDiscussionMessage2->
+2015-02-07 13:24:21  :  pushNotifyDiscussionMessage2-> discussion_id:634
+2015-02-07 13:24:21  :  pushNotifyDiscussionMessage2-> get user id:1029,823
+2015-02-07 13:24:21  :  pushNotifyDiscussionMessage2->
+2015-02-07 13:24:31  :  pushNotifyDiscussionMessage2-> discussion_id:634
+2015-02-07 13:24:31  :  pushNotifyDiscussionMessage2-> get user id:1029,823
+2015-02-07 13:24:31  :  pushNotifyDiscussionMessage2->
+2015-02-08 13:55:04  :  pushNotifyDiscussionMessage2-> discussion_id:5
+2015-02-08 13:55:04  :  pushNotifyDiscussionMessage2-> get user id:1061,1060
+2015-02-08 13:55:04  :  pushNotifyDiscussionMessage2->
+2015-02-08 13:55:51  :  pushNotifyDiscussionMessage2-> discussion_id:5
+2015-02-08 13:55:51  :  pushNotifyDiscussionMessage2-> get user id:1061,1060
+2015-02-08 13:55:51  :  pushNotifyDiscussionMessage2->
+2015-02-08 14:05:29  :  pushNotifyDiscussionMessage2-> discussion_id:5
+2015-02-08 14:05:29  :  pushNotifyDiscussionMessage2-> get user id:1061,1060
+2015-02-08 14:05:29  :  pushNotifyDiscussionMessage2->
+2015-02-08 14:46:52  :  pushNotifyDiscussionMessage2-> discussion_id:5
+2015-02-08 14:46:52  :  pushNotifyDiscussionMessage2-> get user id:1061,1060
+2015-02-08 14:46:52  :  pushNotifyDiscussionMessage2->
+2015-02-09 10:57:05  :  pushNotifyDiscussionMessage2-> discussion_id:8
+2015-02-09 10:57:05  :  pushNotifyDiscussionMessage2-> get user id:1057,1059
+2015-02-09 10:57:05  :  pushNotifyDiscussionMessage2->
+2015-02-09 10:58:01  :  pushNotifyDiscussionMessage2-> discussion_id:8
+2015-02-09 10:58:01  :  pushNotifyDiscussionMessage2-> get user id:1057,1059
+2015-02-09 10:58:01  :  pushNotifyDiscussionMessage2->
+2015-02-09 10:58:37  :  pushNotifyDiscussionMessage2-> discussion_id:7
+2015-02-09 10:58:37  :  pushNotifyDiscussionMessage2-> get user id:1057,1059
+2015-02-09 10:58:37  :  pushNotifyDiscussionMessage2->
+2015-02-09 10:59:47  :  pushNotifyDiscussionMessage2-> discussion_id:8
+2015-02-09 10:59:47  :  pushNotifyDiscussionMessage2-> get user id:1057,1059
+2015-02-09 10:59:47  :  pushNotifyDiscussionMessage2->
+2015-02-09 11:00:40  :  pushNotifyDiscussionMessage2-> discussion_id:8
+2015-02-09 11:00:40  :  pushNotifyDiscussionMessage2-> get user id:1057,1059
+2015-02-09 11:00:40  :  pushNotifyDiscussionMessage2->
+2015-02-09 11:02:30  :  pushNotifyDiscussionMessage2-> discussion_id:7
+2015-02-09 11:02:30  :  pushNotifyDiscussionMessage2-> get user id:1057,1059
+2015-02-09 11:02:30  :  pushNotifyDiscussionMessage2->
+2015-02-09 11:03:02  :  pushNotifyDiscussionMessage2-> discussion_id:7
+2015-02-09 11:03:02  :  pushNotifyDiscussionMessage2-> get user id:1057,1059
+2015-02-09 11:03:02  :  pushNotifyDiscussionMessage2->
+2015-02-09 11:05:10  :  pushNotifyDiscussionMessage2-> discussion_id:8
+2015-02-09 11:05:10  :  pushNotifyDiscussionMessage2-> get user id:1057,1059
+2015-02-09 11:05:10  :  pushNotifyDiscussionMessage2->
+2015-02-09 11:07:01  :  pushNotifyDiscussionMessage2-> discussion_id:7
+2015-02-09 11:07:01  :  pushNotifyDiscussionMessage2-> get user id:1057,1059
+2015-02-09 11:07:01  :  pushNotifyDiscussionMessage2->
+2015-02-09 11:07:24  :  pushNotifyDiscussionMessage2-> discussion_id:8
+2015-02-09 11:07:24  :  pushNotifyDiscussionMessage2-> get user id:1057,1059
+2015-02-09 11:07:24  :  pushNotifyDiscussionMessage2->
+2015-02-09 11:08:40  :  pushNotifyDiscussionMessage2-> discussion_id:10
+2015-02-09 11:08:40  :  pushNotifyDiscussionMessage2-> get user id:1057,1059
+2015-02-09 11:08:40  :  pushNotifyDiscussionMessage2->
+2015-02-09 11:11:50  :  pushNotifyDiscussionMessage2-> discussion_id:8
+2015-02-09 11:11:50  :  pushNotifyDiscussionMessage2-> get user id:1057,1059
+2015-02-09 11:11:50  :  pushNotifyDiscussionMessage2->
+2015-02-09 11:43:10  :  pushNotifyDiscussionMessage2-> discussion_id:8
+2015-02-09 11:43:10  :  pushNotifyDiscussionMessage2-> get user id:1057,1059
+2015-02-09 11:43:10  :  pushNotifyDiscussionMessage2->
+2015-02-09 11:46:41  :  pushNotifyDiscussionMessage2-> discussion_id:8
+2015-02-09 11:46:41  :  pushNotifyDiscussionMessage2-> get user id:1057,1059
+2015-02-09 11:46:41  :  pushNotifyDiscussionMessage2->
+2015-02-09 11:47:24  :  pushNotifyDiscussionMessage2-> discussion_id:7
+2015-02-09 11:47:24  :  pushNotifyDiscussionMessage2-> get user id:1057,1059
+2015-02-09 11:47:24  :  pushNotifyDiscussionMessage2->
+2015-02-10 11:58:22  :  pushNotifyDiscussionMessage2-> discussion_id:10
+2015-02-10 11:58:22  :  pushNotifyDiscussionMessage2-> get user id:1058,1059
+2015-02-10 11:58:22  :  pushNotifyDiscussionMessage2->1057,
+2015-02-11 10:26:28  :  pushNotifyDiscussionMessage2-> discussion_id:58
+2015-02-11 10:26:28  :  pushNotifyDiscussionMessage2-> get user id:1063,1057
+2015-02-11 10:26:28  :  pushNotifyDiscussionMessage2->
+2015-02-11 10:26:59  :  pushNotifyDiscussionMessage2-> discussion_id:58
+2015-02-11 10:26:59  :  pushNotifyDiscussionMessage2-> get user id:1063,1057
+2015-02-11 10:26:59  :  pushNotifyDiscussionMessage2->
+2015-02-11 10:27:55  :  pushNotifyDiscussionMessage2-> discussion_id:59
+2015-02-11 10:27:55  :  pushNotifyDiscussionMessage2-> get user id:1063,1057
+2015-02-11 10:27:55  :  pushNotifyDiscussionMessage2->
+2015-02-11 10:28:12  :  pushNotifyDiscussionMessage2-> discussion_id:59
+2015-02-11 10:28:12  :  pushNotifyDiscussionMessage2-> get user id:1063,1057
+2015-02-11 10:28:12  :  pushNotifyDiscussionMessage2->
+2015-02-11 10:28:28  :  pushNotifyDiscussionMessage2-> discussion_id:58
+2015-02-11 10:28:28  :  pushNotifyDiscussionMessage2-> get user id:1063,1057
+2015-02-11 10:28:28  :  pushNotifyDiscussionMessage2->
+2015-02-11 11:09:17  :  pushNotifyDiscussionMessage2-> discussion_id:55
+2015-02-11 11:09:17  :  pushNotifyDiscussionMessage2-> get user id:1060,1059
+2015-02-11 11:09:17  :  pushNotifyDiscussionMessage2->
+2015-02-11 11:09:24  :  pushNotifyDiscussionMessage2-> discussion_id:55
+2015-02-11 11:09:24  :  pushNotifyDiscussionMessage2-> get user id:1060,1059
+2015-02-11 11:09:24  :  pushNotifyDiscussionMessage2->
+2015-02-11 11:09:57  :  pushNotifyDiscussionMessage2-> discussion_id:55
+2015-02-11 11:09:57  :  pushNotifyDiscussionMessage2-> get user id:1060,1059
+2015-02-11 11:09:57  :  pushNotifyDiscussionMessage2->
+2015-02-11 16:38:51  :  pushNotifyDiscussionMessage2-> discussion_id:59
+2015-02-11 16:38:51  :  pushNotifyDiscussionMessage2-> get user id:1069,1057
+2015-02-11 16:38:51  :  pushNotifyDiscussionMessage2->1063,
+2015-02-11 16:39:24  :  pushNotifyDiscussionMessage2-> discussion_id:60
+2015-02-11 16:39:24  :  pushNotifyDiscussionMessage2-> get user id:1069,1065
+2015-02-11 16:39:24  :  pushNotifyDiscussionMessage2->
+2015-02-11 16:39:48  :  pushNotifyDiscussionMessage2-> discussion_id:60
+2015-02-11 16:39:48  :  pushNotifyDiscussionMessage2-> get user id:1069,1065
+2015-02-11 16:39:48  :  pushNotifyDiscussionMessage2->
+2015-02-11 16:40:02  :  pushNotifyDiscussionMessage2-> discussion_id:60
+2015-02-11 16:40:02  :  pushNotifyDiscussionMessage2-> get user id:1069,1065
+2015-02-11 16:40:02  :  pushNotifyDiscussionMessage2->
+2015-02-11 16:40:14  :  pushNotifyDiscussionMessage2-> discussion_id:60
+2015-02-11 16:40:14  :  pushNotifyDiscussionMessage2-> get user id:1069,1065
+2015-02-11 16:40:14  :  pushNotifyDiscussionMessage2->
+2015-02-11 17:04:31  :  pushNotifyDiscussionMessage2-> discussion_id:59
+2015-02-11 17:04:31  :  pushNotifyDiscussionMessage2-> get user id:1065,1057
+2015-02-11 17:04:31  :  pushNotifyDiscussionMessage2->1063,1069,
+2015-02-11 21:02:12  :  pushNotifyDiscussionMessage2-> discussion_id:61
+2015-02-11 21:02:12  :  pushNotifyDiscussionMessage2-> get user id:1057,1065
+2015-02-11 21:02:12  :  pushNotifyDiscussionMessage2->
+2015-02-13 09:59:11  :  pushNotifyDiscussionMessage2-> discussion_id:67
+2015-02-13 09:59:11  :  pushNotifyDiscussionMessage2-> get user id:1057,1059
+2015-02-13 09:59:11  :  pushNotifyDiscussionMessage2->
+2015-02-13 12:08:15  :  pushNotifyDiscussionMessage2-> discussion_id:72
+2015-02-13 12:08:15  :  pushNotifyDiscussionMessage2-> get user id:1057,1059
+2015-02-13 12:08:15  :  pushNotifyDiscussionMessage2->
+2015-02-13 12:08:22  :  pushNotifyDiscussionMessage2-> discussion_id:71
+2015-02-13 12:08:22  :  pushNotifyDiscussionMessage2-> get user id:1057,1059
+2015-02-13 12:08:22  :  pushNotifyDiscussionMessage2->
+2015-02-13 12:08:28  :  pushNotifyDiscussionMessage2-> discussion_id:70
+2015-02-13 12:08:28  :  pushNotifyDiscussionMessage2-> get user id:1057,1059
+2015-02-13 12:08:28  :  pushNotifyDiscussionMessage2->
+2015-02-13 12:08:36  :  pushNotifyDiscussionMessage2-> discussion_id:69
+2015-02-13 12:08:36  :  pushNotifyDiscussionMessage2-> get user id:1057,1059
+2015-02-13 12:08:36  :  pushNotifyDiscussionMessage2->
+2015-02-13 12:09:18  :  pushNotifyDiscussionMessage2-> discussion_id:68
+2015-02-13 12:09:18  :  pushNotifyDiscussionMessage2-> get user id:1069,1057
+2015-02-13 12:09:18  :  pushNotifyDiscussionMessage2->
+2015-02-13 16:43:14  :  pushNotifyDiscussionMessage2-> discussion_id:68
+2015-02-13 16:43:14  :  pushNotifyDiscussionMessage2-> get user id:1069,1057
+2015-02-13 16:43:14  :  pushNotifyDiscussionMessage2->
+2015-02-19 20:21:16  :  pushNotifyDiscussionMessage2-> discussion_id:73
+2015-02-19 20:21:16  :  pushNotifyDiscussionMessage2-> get user id:1062,1079
+2015-02-19 20:21:16  :  pushNotifyDiscussionMessage2->
+2015-02-24 23:50:11  :  pushNotifyDiscussionMessage2-> discussion_id:73
+2015-02-24 23:50:11  :  pushNotifyDiscussionMessage2-> get user id:1062,1079
+2015-02-24 23:50:11  :  pushNotifyDiscussionMessage2->
+2015-02-25 10:24:07  :  pushNotifyDiscussionMessage2-> discussion_id:68
+2015-02-25 10:24:07  :  pushNotifyDiscussionMessage2-> get user id:1062,1057
+2015-02-25 10:24:07  :  pushNotifyDiscussionMessage2->1069,
+2015-03-12 17:31:07  :  pushNotifyDiscussionMessage2-> discussion_id:78
+2015-03-12 17:31:07  :  pushNotifyDiscussionMessage2-> get user id:2194,1057
+2015-03-12 17:31:07  :  pushNotifyDiscussionMessage2->
+2015-03-13 15:34:00  :  pushNotifyDiscussionMessage2-> discussion_id:79
+2015-03-13 15:34:00  :  pushNotifyDiscussionMessage2-> get user id:1059,1057
+2015-03-13 15:34:00  :  pushNotifyDiscussionMessage2->
+2015-04-01 16:16:12  :  pushNotifyDiscussionMessage2-> discussion_id:51
+2015-04-01 16:16:12  :  pushNotifyDiscussionMessage2-> get user id:3182,1059
+2015-04-01 16:16:12  :  pushNotifyDiscussionMessage2->
+2015-04-10 18:22:32  :  pushNotifyDiscussionMessage2-> discussion_id:85
+2015-04-10 18:22:32  :  pushNotifyDiscussionMessage2-> get user id:4154,1060
+2015-04-10 18:22:32  :  pushNotifyDiscussionMessage2->
+2015-04-14 12:04:18  :  pushNotifyDiscussionMessage2-> discussion_id:89
+2015-04-14 12:04:18  :  pushNotifyDiscussionMessage2-> get user id:1059,1062
+2015-04-14 12:04:18  :  pushNotifyDiscussionMessage2->
+2015-04-17 21:12:53  :  pushNotifyDiscussionMessage2-> discussion_id:90
+2015-04-17 21:12:53  :  pushNotifyDiscussionMessage2-> get user id:1061,4875
+2015-04-17 21:12:53  :  pushNotifyDiscussionMessage2->
+2015-04-21 13:03:04  :  pushNotifyDiscussionMessage2-> discussion_id:93
+2015-04-21 13:03:04  :  pushNotifyDiscussionMessage2-> get user id:6587,4274
+2015-04-21 13:03:04  :  pushNotifyDiscussionMessage2->
+2015-05-17 11:50:45  :  pushNotifyDiscussionMessage2-> discussion_id:109
+2015-05-17 11:50:45  :  pushNotifyDiscussionMessage2-> get user id:10197,9330
+2015-05-17 11:50:45  :  pushNotifyDiscussionMessage2->
+2015-05-18 09:08:38  :  pushNotifyDiscussionMessage2-> discussion_id:116
+2015-05-18 09:08:38  :  pushNotifyDiscussionMessage2-> get user id:10455,10243
+2015-05-18 09:08:38  :  pushNotifyDiscussionMessage2->
+2015-05-18 09:10:16  :  pushNotifyDiscussionMessage2-> discussion_id:109
+2015-05-18 09:10:16  :  pushNotifyDiscussionMessage2-> get user id:10455,9330
+2015-05-18 09:10:16  :  pushNotifyDiscussionMessage2->10197,
+2015-05-28 18:29:03  :  pushNotifyDiscussionMessage2-> discussion_id:40
+2015-05-28 18:29:03  :  pushNotifyDiscussionMessage2-> get user id:11716,1062
+2015-05-28 18:29:03  :  pushNotifyDiscussionMessage2->
+2015-05-29 00:26:10  :  pushNotifyDiscussionMessage2-> discussion_id:106
+2015-05-29 00:26:10  :  pushNotifyDiscussionMessage2-> get user id:11778,1060
+2015-05-29 00:26:10  :  pushNotifyDiscussionMessage2->
+2015-06-03 10:14:51  :  pushNotifyDiscussionMessage2-> discussion_id:115
+2015-06-03 10:14:51  :  pushNotifyDiscussionMessage2-> get user id:12054,9330
+2015-06-03 10:14:51  :  pushNotifyDiscussionMessage2->
+2015-06-03 10:15:00  :  pushNotifyDiscussionMessage2-> discussion_id:115
+2015-06-03 10:15:00  :  pushNotifyDiscussionMessage2-> get user id:12054,9330
+2015-06-03 10:15:00  :  pushNotifyDiscussionMessage2->
+2015-06-03 10:15:19  :  pushNotifyDiscussionMessage2-> discussion_id:115
+2015-06-03 10:15:19  :  pushNotifyDiscussionMessage2-> get user id:12054,9330
+2015-06-03 10:15:19  :  pushNotifyDiscussionMessage2->
+2015-06-03 10:15:48  :  pushNotifyDiscussionMessage2-> discussion_id:109
+2015-06-03 10:15:48  :  pushNotifyDiscussionMessage2-> get user id:12054,9330
+2015-06-03 10:15:48  :  pushNotifyDiscussionMessage2->10197,10455,
+2015-06-08 15:58:19  :  pushNotifyDiscussionMessage2-> discussion_id:85
+2015-06-08 15:58:19  :  pushNotifyDiscussionMessage2-> get user id:2692,1060
+2015-06-08 15:58:19  :  pushNotifyDiscussionMessage2->4154,
+2015-06-10 17:30:47  :  pushNotifyDiscussionMessage2-> discussion_id:130
+2015-06-10 17:30:47  :  pushNotifyDiscussionMessage2-> get user id:1062,4316
+2015-06-10 17:30:47  :  pushNotifyDiscussionMessage2->
+2015-06-12 15:13:55  :  pushNotifyDiscussionMessage2-> discussion_id:130
+2015-06-12 15:13:55  :  pushNotifyDiscussionMessage2-> get user id:13216,4316
+2015-06-12 15:13:55  :  pushNotifyDiscussionMessage2->1062,
+2015-06-19 18:00:29  :  pushNotifyDiscussionMessage2-> discussion_id:109
+2015-06-19 18:00:29  :  pushNotifyDiscussionMessage2-> get user id:12515,9330
+2015-06-19 18:00:29  :  pushNotifyDiscussionMessage2->10197,10455,12054,
+2015-06-26 13:56:22  :  pushNotifyDiscussionMessage2-> discussion_id:144
+2015-06-26 13:56:22  :  pushNotifyDiscussionMessage2-> get user id:5928,1060
+2015-06-26 13:56:22  :  pushNotifyDiscussionMessage2->
+2015-07-02 02:36:29  :  pushNotifyDiscussionMessage2-> discussion_id:145
+2015-07-02 02:36:29  :  pushNotifyDiscussionMessage2-> get user id:16063,15620
+2015-07-02 02:36:29  :  pushNotifyDiscussionMessage2->

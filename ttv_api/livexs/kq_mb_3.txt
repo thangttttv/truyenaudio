@@ -1,0 +1,1 @@
+[{"ngay_quay":"08/09/2017","province_id":"1","giai_dacbiet":"","giai_nhat":"","giai_nhi":"-","giai_ba":"-----","giai_tu":"---","giai_nam":"-----","giai_sau":"--","giai_bay":"---"}]

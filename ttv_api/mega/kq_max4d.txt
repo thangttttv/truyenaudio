@@ -1,0 +1,1 @@
+{"nhat":"0237","nhi_1":"1288","nhi_2":"1288","ba_1":"1812","ba_2":"4625","ba_3":"8269","kk_1":"237","kk_2":"37","nhat_so_giai":6,"nhat_giai_tri":1.5E7,"nhi_so_giai":21,"nhi_giai_tri":6500000,"ba_so_giai":14,"ba_giai_tri":3000000,"kk_1_so_giai":107,"kk_1_giai_tri":1000000,"kk_2_so_giai":658,"kk_2_giai_tri":1000000,"ngay_mo_tiep":"2017-8-19","gio_quay":"18:00"}

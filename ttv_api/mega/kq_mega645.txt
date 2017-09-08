@@ -1,0 +1,1 @@
+{"ky_ve":"#00174","ngay_mo":"2017-8-30","bo_1":"05","bo_2":"08","bo_3":"11","bo_4":"28","bo_5":"35","bo_6":"41","jackpot_so_giai":0,"jackpot_gia_tri":"2.20725265E10","nhat_so_giai":48,"nhat_gia_tri":"10000000","nhi_so_giai":2129,"nhi_gia_tri":300000,"ba_so_giai":34967,"ba_gia_tri":30000,"gio_quay":"18:00","jackpot_gia_tri_ki_tiep":"2.20725265E10"}
